@@ -35,9 +35,10 @@ Open "demo_script.m" and run it cell-by-cell or line-by-line to get familiarized
 ***
 
 Toolbox written by Edden M. Gerber, lab of Leon Deouell, Hebrew University of Jerusalem 2015. 
+
 This toolbox uses "FreezeColors.m" written by John Iversen 2005-10, john_iversen@post.harvard.edu. 
 
-
+Thanks to Tal Golan for theoretical and technical assistance. 
 
 *** 
 
