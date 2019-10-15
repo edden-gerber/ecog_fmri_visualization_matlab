@@ -1,3 +1,5 @@
+![cover image](cover_image.png)
+
 The ECoG/fMRI visualization and data plotting toolbox for Matlab
 
 This toolbox provides functions to visualize 3D brain models in Matlab, as well as to flexibly plot data on and around the brain surfaces. The toolbox includes a 
